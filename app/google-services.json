@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145555576186",
+    "project_id": "safarifoods-bb16a",
+    "storage_bucket": "safarifoods-bb16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145555576186:android:26052dae6606800c8772c3",
+        "android_client_info": {
+          "package_name": "com.example.safarifoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145555576186-vo8ovmqjcpsr91ftmhv4l9jthnsjv6vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaEX8uVzsaFdM0QkYxgGE1Al4_v2vIrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145555576186-vo8ovmqjcpsr91ftmhv4l9jthnsjv6vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

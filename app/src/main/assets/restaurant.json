@@ -1,0 +1,988 @@
+{
+  "restuarants": [ {
+    "restaurant_name": "Nice city",
+    "restaurant_phone": "0717618124",
+    "hours": "Daily: 6am-11pm",
+    "restaurant_id": 1072702673999819,
+    "address": {
+      "city": "Mwea",
+      "street": "Nairobi-meru Highway"
+    },
+    "geo": {
+      "lat": 40.727026,
+      "lon": -73.999819
+    },
+    "menus": [
+      {
+        "menu_name": "Main",
+        "menu_sections": [
+          {
+            "section_name": "Beverages",
+            "description": "hot and cold drinks",
+            "menu_items": [
+              {
+                "name": "Regular Coffee",
+                "description": "the normal black coffee",
+                "pricing": [
+                  {
+                    "price": 70,
+                    "currency": "ksh",
+                    "priceString": "ksh 70"
+                  }
+                ],
+                "price": 70
+              },
+              {
+                "name": "white Coffee",
+                "description": "contains milk cofee and sugar",
+                "pricing": [
+                  {
+                    "price": 120,
+                    "currency": "ksh",
+                    "priceString": "ksh 120"
+                  }
+                ],
+                "price": 120
+              },
+              {
+                "name": "Tea",
+                "description": "Normal kenyan tea with milk",
+                "pricing": [
+                  {
+                    "price": 70,
+                    "currency": "ksh",
+                    "priceString": "ksh 70"
+                  }
+                ],
+                "price": 70
+              },
+              {
+                "name": "Strong Tea",
+                "description": "no milk just tea leaves",
+                "pricing": [
+                  {
+                    "price": 50,
+                    "currency": "ksh",
+                    "priceString": "ksh 50"
+                  }
+                ],
+                "price": 50
+              },
+              {
+                "name": "Cappuccino",
+                "description": "served hot",
+                "pricing": [
+                  {
+                    "price": 130,
+                    "currency": "ksh",
+                    "priceString": "ksh 130"
+                  }
+                ],
+                "price": 130
+              },
+              {
+                "name": "Fresh Lemonade",
+                "description": "hot lemon juice",
+                "pricing": [
+                  {
+                    "price": 50,
+                    "currency": "ksh",
+                    "priceString": "ksh 50"
+                  }
+                ],
+                "price": 50
+              },
+              {
+                "name": "Hot Chocolate",
+                "description": "Served with whipped cream.",
+                "pricing": [
+                  {
+                    "price": 2.95,
+                    "currency": "USD",
+                    "priceString": "$2.95"
+                  }
+                ],
+                "price": 2.95
+              }
+            ]
+          },
+          {
+            "section_name": "Main Dishes",
+            "description": "Kenyan food",
+            "menu_items": [
+              {
+                "name": "ugali",
+                "description": "prepared using maize flour",
+                "pricing": [
+                  {
+                    "price": 50,
+                    "currency": "ksh",
+                    "priceString": "ksh 50"
+                  }
+                ],
+                "price": 50
+              },
+              {
+                "name": "rice",
+                "description": "white rice",
+                "pricing": [
+                  {
+                    "price": 80,
+                    "currency": "ksh",
+                    "priceString": "ksh 80"
+                  }
+                ],
+                "price": 80
+              },
+              {
+                "name": "chapati",
+                "description": "prepared using wheat flour",
+                "pricing": [
+                  {
+                    "price": 30,
+                    "currency": "ksh",
+                    "priceString": "ksh 30"
+                  }
+                ],
+                "price": 30
+              },
+              {
+                "name": "beans",
+                "description": "fried Cereal beans",
+                "pricing": [
+                  {
+                    "price": 100,
+                    "currency": "ksh",
+                    "priceString": "ksh 100"
+                  }
+                ],
+                "price": 100
+              },
+              {
+                "name": "dengu",
+                "description": "spiced green grams",
+                "pricing": [
+                  {
+                    "price": 100,
+                    "currency": "ksh",
+                    "priceString": "ksh 100"
+                  }
+                ],
+                "price": 100
+              },
+              {
+                "name": "wet fry",
+                "description": "1/4kg fried beef ",
+                "pricing": [
+                  {
+                    "price": 200,
+                    "currency": "ksh",
+                    "priceString": "ksh 200"
+                  }
+                ],
+                "price": 200
+              },
+              {
+                "name": "choma",
+                "description": "1/4kg grilled beef",
+                "pricing": [
+                  {
+                    "price": 200,
+                    "currency": "ksh",
+                    "priceString": "ksh 200"
+                  }
+                ],
+                "price": 200
+              },
+              {
+                "name": "pork",
+                "description": "1/4kg pork meat",
+                "pricing": [
+                  {
+                    "price": 250,
+                    "currency": "ksh",
+                    "priceString": "ksh 250"
+                  }
+                ],
+                "price": 250
+              },
+              {
+                "name": "chicken soup",
+                "description": "1/4 chicken ",
+                "pricing": [
+                  {
+                    "price": 200,
+                    "currency": "ksh",
+                    "priceString": "ksh 200 "
+                  }
+                ],
+                "price": 200
+              },
+              {
+                "name": "kuku choma",
+                "description": "1/4 grilled chicken",
+                "pricing": [
+                  {
+                    "price": "200",
+                    "currency": "ksh",
+                    "priceString": "ksh 200"
+                  }
+                ],
+                "price": 200
+              },
+              {
+                "name": "chips",
+                "description": "fried potatoes",
+                "pricing": [
+                  {
+                    "price": 120,
+                    "currency": "ksh",
+                    "priceString": "ksh 120"
+                  }
+                ],
+                "price": 120
+              }
+            ]
+          },
+          {
+            "section_name": "snacks",
+            "description": "prepared from the bakery.",
+            "menu_items": [
+              {
+                "name": "smokies",
+                "description": "beef smokies",
+                "pricing": [
+                  {
+                    "price": 30,
+                    "currency": "ksh",
+                    "priceString": "ksh 30"
+                  }
+                ],
+                "price": 30
+              },
+              {
+                "name": "sausage",
+                "description": "pork sausages",
+                "pricing": [
+                  {
+                    "price": "50",
+                    "currency": "ksh",
+                    "priceString": "ksh 50"
+                  }
+                ],
+                "price": 50
+              },
+              {
+                "name": "Kebab",
+                "description": "beef rolled kebab",
+                "pricing": [
+                  {
+                    "price": 120,
+                    "currency": "ksh",
+                    "priceString": "ksh 120"
+                  }
+                ],
+                "price": 120
+              },
+              {
+                "name": "meat Pie",
+                "description": "beef rolled meat pie",
+                "pricing": [
+                  {
+                    "price": 100,
+                    "currency": "ksh",
+                    "priceString": "ksh 100"
+                  }
+                ],
+                "price": 100
+              },
+              {
+                "name": "chicken burger",
+                "description": "chicken sandwiched burger",
+                "pricing": [
+                  {
+                    "price": 100,
+                    "currency": "ksh",
+                    "priceString": "ksh 100"
+                  }
+                ],
+                "price": 100
+              },
+              {
+                "name": "sausage roll",
+                "description": "sausage,beef and bread ",
+                "pricing": [
+                  {
+                    "price": 100,
+                    "currency": "ksh",
+                    "priceString": "ksh 100"
+                  }
+                ],
+                "price": 100
+              }
+
+            ]
+          }
+        ]
+      }
+    ]
+  },
+{
+  "restaurant_name": "Nyamakima",
+  "restaurant_phone": "0717618124",
+  "hours": "Daily: 6am-11pm",
+  "restaurant_id": 2072702673999819,
+  "address": {
+    "city": "Voi",
+    "street": "Nairobi-Mombasa Highway"
+  },
+  "geo": {
+    "lat": 40.727026,
+    "lon": -73.999819
+  },
+  "menus": [
+    {
+      "menu_name": "Main",
+      "menu_sections": [
+        {
+          "section_name": "Beverages",
+          "description": "hot and cold drinks",
+          "menu_items": [
+            {
+              "name": "Regular Coffee",
+              "description": "the normal black coffee",
+              "pricing": [
+                {
+                  "price": 70,
+                  "currency": "ksh",
+                  "priceString": "ksh 70"
+                }
+              ],
+              "price": 70
+            },
+            {
+              "name": "white Coffee",
+              "description": "contains milk cofee and sugar",
+              "pricing": [
+                {
+                  "price": 120,
+                  "currency": "ksh",
+                  "priceString": "ksh 120"
+                }
+              ],
+              "price": 120
+            },
+            {
+              "name": "Tea",
+              "description": "Normal kenyan tea with milk",
+              "pricing": [
+                {
+                  "price": 70,
+                  "currency": "ksh",
+                  "priceString": "ksh 70"
+                }
+              ],
+              "price": 70
+            },
+            {
+              "name": "Strong Tea",
+              "description": "no milk just tea leaves",
+              "pricing": [
+                {
+                  "price": 50,
+                  "currency": "ksh",
+                  "priceString": "ksh 50"
+                }
+              ],
+              "price": 50
+            },
+            {
+              "name": "Cappuccino",
+              "description": "served hot",
+              "pricing": [
+                {
+                  "price": 130,
+                  "currency": "ksh",
+                  "priceString": "ksh 130"
+                }
+              ],
+              "price": 130
+            },
+            {
+              "name": "Fresh Lemonade",
+              "description": "hot lemon juice",
+              "pricing": [
+                {
+                  "price": 50,
+                  "currency": "ksh",
+                  "priceString": "ksh 50"
+                }
+              ],
+              "price": 50
+            },
+            {
+              "name": "Hot Chocolate",
+              "description": "Served with whipped cream.",
+              "pricing": [
+                {
+                  "price": 2.95,
+                  "currency": "USD",
+                  "priceString": "$2.95"
+                }
+              ],
+              "price": 2.95
+            }
+          ]
+        },
+        {
+          "section_name": "Main Dishes",
+          "description": "Kenyan food",
+          "menu_items": [
+            {
+              "name": "ugali",
+              "description": "prepared using maize flour",
+              "pricing": [
+                {
+                  "price": 50,
+                  "currency": "ksh",
+                  "priceString": "ksh 50"
+                }
+              ],
+              "price": 50
+            },
+            {
+              "name": "rice",
+              "description": "white rice",
+              "pricing": [
+                {
+                  "price": 80,
+                  "currency": "ksh",
+                  "priceString": "ksh 80"
+                }
+              ],
+              "price": 80
+            },
+            {
+              "name": "chapati",
+              "description": "prepared using wheat flour",
+              "pricing": [
+                {
+                  "price": 30,
+                  "currency": "ksh",
+                  "priceString": "ksh 30"
+                }
+              ],
+              "price": 30
+            },
+            {
+              "name": "beans",
+              "description": "fried Cereal beans",
+              "pricing": [
+                {
+                  "price": 100,
+                  "currency": "ksh",
+                  "priceString": "ksh 100"
+                }
+              ],
+              "price": 100
+            },
+            {
+              "name": "dengu",
+              "description": "spiced green grams",
+              "pricing": [
+                {
+                  "price": 100,
+                  "currency": "ksh",
+                  "priceString": "ksh 100"
+                }
+              ],
+              "price": 100
+            },
+            {
+              "name": "wet fry",
+              "description": "1/4kg fried beef ",
+              "pricing": [
+                {
+                  "price": 200,
+                  "currency": "ksh",
+                  "priceString": "ksh 200"
+                }
+              ],
+              "price": 200
+            },
+            {
+              "name": "choma",
+              "description": "1/4kg grilled beef",
+              "pricing": [
+                {
+                  "price": 200,
+                  "currency": "ksh",
+                  "priceString": "ksh 200"
+                }
+              ],
+              "price": 200
+            },
+            {
+              "name": "pork",
+              "description": "1/4kg pork meat",
+              "pricing": [
+                {
+                  "price": 250,
+                  "currency": "ksh",
+                  "priceString": "ksh 250"
+                }
+              ],
+              "price": 250
+            },
+            {
+              "name": "chicken soup",
+              "description": "1/4 chicken ",
+              "pricing": [
+                {
+                  "price": 200,
+                  "currency": "ksh",
+                  "priceString": "ksh 200 "
+                }
+              ],
+              "price": 200
+            },
+            {
+              "name": "kuku choma",
+              "description": "1/4 grilled chicken",
+              "pricing": [
+                {
+                  "price": "200",
+                  "currency": "ksh",
+                  "priceString": "ksh 200"
+                }
+              ],
+              "price": 200
+            },
+            {
+              "name": "chips",
+              "description": "fried potatoes",
+              "pricing": [
+                {
+                  "price": 120,
+                  "currency": "ksh",
+                  "priceString": "ksh 120"
+                }
+              ],
+              "price": 120
+            }
+          ]
+        },
+        {
+          "section_name": "snacks",
+          "description": "prepared from the bakery.",
+          "menu_items": [
+            {
+              "name": "smokies",
+              "description": "beef smokies",
+              "pricing": [
+                {
+                  "price": 30,
+                  "currency": "ksh",
+                  "priceString": "ksh 30"
+                }
+              ],
+              "price": 30
+            },
+            {
+              "name": "sausage",
+              "description": "pork sausages",
+              "pricing": [
+                {
+                  "price": "50",
+                  "currency": "ksh",
+                  "priceString": "ksh 50"
+                }
+              ],
+              "price": 50
+            },
+            {
+              "name": "Kebab",
+              "description": "beef rolled kebab",
+              "pricing": [
+                {
+                  "price": 120,
+                  "currency": "ksh",
+                  "priceString": "ksh 120"
+                }
+              ],
+              "price": 120
+            },
+            {
+              "name": "meat Pie",
+              "description": "beef rolled meat pie",
+              "pricing": [
+                {
+                  "price": 100,
+                  "currency": "ksh",
+                  "priceString": "ksh 100"
+                }
+              ],
+              "price": 100
+            },
+            {
+              "name": "chicken burger",
+              "description": "chicken sandwiched burger",
+              "pricing": [
+                {
+                  "price": 100,
+                  "currency": "ksh",
+                  "priceString": "ksh 100"
+                }
+              ],
+              "price": 100
+            },
+            {
+              "name": "sausage roll",
+              "description": "sausage,beef and bread ",
+              "pricing": [
+                {
+                  "price": 100,
+                  "currency": "ksh",
+                  "priceString": "ksh 100"
+                }
+              ],
+              "price": 100
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+},
+    {
+      "restaurant_name": "Mashemeji",
+      "restaurant_phone": "0717618124",
+      "hours": "Daily: 6am-11pm",
+      "restaurant_id": 3072702673999819,
+      "address": {
+        "city": "Nakuru",
+        "street": "Nairobi-eldoret Highway"
+      },
+      "geo": {
+        "lat": 40.727026,
+        "lon": -73.999819
+      },
+      "menus": [
+        {
+          "menu_name": "Main",
+          "menu_sections": [
+            {
+              "section_name": "Beverages",
+              "description": "hot and cold drinks",
+              "menu_items": [
+                {
+                  "name": "Regular Coffee",
+                  "description": "the normal black coffee",
+                  "pricing": [
+                    {
+                      "price": 70,
+                      "currency": "ksh",
+                      "priceString": "ksh 70"
+                    }
+                  ],
+                  "price": 70
+                },
+                {
+                  "name": "white Coffee",
+                  "description": "contains milk cofee and sugar",
+                  "pricing": [
+                    {
+                      "price": 120,
+                      "currency": "ksh",
+                      "priceString": "ksh 120"
+                    }
+                  ],
+                  "price": 120
+                },
+                {
+                  "name": "Tea",
+                  "description": "Normal kenyan tea with milk",
+                  "pricing": [
+                    {
+                      "price": 70,
+                      "currency": "ksh",
+                      "priceString": "ksh 70"
+                    }
+                  ],
+                  "price": 70
+                },
+                {
+                  "name": "Strong Tea",
+                  "description": "no milk just tea leaves",
+                  "pricing": [
+                    {
+                      "price": 50,
+                      "currency": "ksh",
+                      "priceString": "ksh 50"
+                    }
+                  ],
+                  "price": 50
+                },
+                {
+                  "name": "Cappuccino",
+                  "description": "served hot",
+                  "pricing": [
+                    {
+                      "price": 130,
+                      "currency": "ksh",
+                      "priceString": "ksh 130"
+                    }
+                  ],
+                  "price": 130
+                },
+                {
+                  "name": "Fresh Lemonade",
+                  "description": "hot lemon juice",
+                  "pricing": [
+                    {
+                      "price": 50,
+                      "currency": "ksh",
+                      "priceString": "ksh 50"
+                    }
+                  ],
+                  "price": 50
+                },
+                {
+                  "name": "Hot Chocolate",
+                  "description": "Served with whipped cream.",
+                  "pricing": [
+                    {
+                      "price": 2.95,
+                      "currency": "USD",
+                      "priceString": "$2.95"
+                    }
+                  ],
+                  "price": 2.95
+                }
+              ]
+            },
+            {
+              "section_name": "Main Dishes",
+              "description": "Kenyan food",
+              "menu_items": [
+                {
+                  "name": "ugali",
+                  "description": "prepared using maize flour",
+                  "pricing": [
+                    {
+                      "price": 50,
+                      "currency": "ksh",
+                      "priceString": "ksh 50"
+                    }
+                  ],
+                  "price": 50
+                },
+                {
+                  "name": "rice",
+                  "description": "white rice",
+                  "pricing": [
+                    {
+                      "price": 80,
+                      "currency": "ksh",
+                      "priceString": "ksh 80"
+                    }
+                  ],
+                  "price": 80
+                },
+                {
+                  "name": "chapati",
+                  "description": "prepared using wheat flour",
+                  "pricing": [
+                    {
+                      "price": 30,
+                      "currency": "ksh",
+                      "priceString": "ksh 30"
+                    }
+                  ],
+                  "price": 30
+                },
+                {
+                  "name": "beans",
+                  "description": "fried Cereal beans",
+                  "pricing": [
+                    {
+                      "price": 100,
+                      "currency": "ksh",
+                      "priceString": "ksh 100"
+                    }
+                  ],
+                  "price": 100
+                },
+                {
+                  "name": "dengu",
+                  "description": "spiced green grams",
+                  "pricing": [
+                    {
+                      "price": 100,
+                      "currency": "ksh",
+                      "priceString": "ksh 100"
+                    }
+                  ],
+                  "price": 100
+                },
+                {
+                  "name": "wet fry",
+                  "description": "1/4kg fried beef ",
+                  "pricing": [
+                    {
+                      "price": 200,
+                      "currency": "ksh",
+                      "priceString": "ksh 200"
+                    }
+                  ],
+                  "price": 200
+                },
+                {
+                  "name": "choma",
+                  "description": "1/4kg grilled beef",
+                  "pricing": [
+                    {
+                      "price": 200,
+                      "currency": "ksh",
+                      "priceString": "ksh 200"
+                    }
+                  ],
+                  "price": 200
+                },
+                {
+                  "name": "pork",
+                  "description": "1/4kg pork meat",
+                  "pricing": [
+                    {
+                      "price": 250,
+                      "currency": "ksh",
+                      "priceString": "ksh 250"
+                    }
+                  ],
+                  "price": 250
+                },
+                {
+                  "name": "chicken soup",
+                  "description": "1/4 chicken ",
+                  "pricing": [
+                    {
+                      "price": 200,
+                      "currency": "ksh",
+                      "priceString": "ksh 200 "
+                    }
+                  ],
+                  "price": 200
+                },
+                {
+                  "name": "kuku choma",
+                  "description": "1/4 grilled chicken",
+                  "pricing": [
+                    {
+                      "price": "200",
+                      "currency": "ksh",
+                      "priceString": "ksh 200"
+                    }
+                  ],
+                  "price": 200
+                },
+                {
+                  "name": "chips",
+                  "description": "fried potatoes",
+                  "pricing": [
+                    {
+                      "price": 120,
+                      "currency": "ksh",
+                      "priceString": "ksh 120"
+                    }
+                  ],
+                  "price": 120
+                }
+              ]
+            },
+            {
+              "section_name": "snacks",
+              "description": "prepared from the bakery.",
+              "menu_items": [
+                {
+                  "name": "smokies",
+                  "description": "beef smokies",
+                  "pricing": [
+                    {
+                      "price": 30,
+                      "currency": "ksh",
+                      "priceString": "ksh 30"
+                    }
+                  ],
+                  "price": 30
+                },
+                {
+                  "name": "sausage",
+                  "description": "pork sausages",
+                  "pricing": [
+                    {
+                      "price": "50",
+                      "currency": "ksh",
+                      "priceString": "ksh 50"
+                    }
+                  ],
+                  "price": 50
+                },
+                {
+                  "name": "Kebab",
+                  "description": "beef rolled kebab",
+                  "pricing": [
+                    {
+                      "price": 120,
+                      "currency": "ksh",
+                      "priceString": "ksh 120"
+                    }
+                  ],
+                  "price": 120
+                },
+                {
+                  "name": "meat Pie",
+                  "description": "beef rolled meat pie",
+                  "pricing": [
+                    {
+                      "price": 100,
+                      "currency": "ksh",
+                      "priceString": "ksh 100"
+                    }
+                  ],
+                  "price": 100
+                },
+                {
+                  "name": "chicken burger",
+                  "description": "chicken sandwiched burger",
+                  "pricing": [
+                    {
+                      "price": 100,
+                      "currency": "ksh",
+                      "priceString": "ksh 100"
+                    }
+                  ],
+                  "price": 100
+                },
+                {
+                  "name": "sausage roll",
+                  "description": "sausage,beef and bread ",
+                  "pricing": [
+                    {
+                      "price": 100,
+                      "currency": "ksh",
+                      "priceString": "ksh 100"
+                    }
+                  ],
+                  "price": 100
+                }
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    ]
+}
+

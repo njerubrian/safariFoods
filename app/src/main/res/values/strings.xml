@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SafariFoods</string>
+
+    <string-array name="Routes">
+        <item>-choose route-</item>
+        <item>Nairobi-Meru Highway</item>
+        <item>Nairobi-Eldoret Highway</item>
+        <item>Nairobi-Mombasa Highway</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

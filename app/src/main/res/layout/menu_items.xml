@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="9dp">
+
+        <TextView
+            android:id="@+id/menuName"
+            android:layout_width="271dp"
+            android:layout_height="23dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/sectionName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/menuName"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="@+id/menuName"
+            app:layout_constraintTop_toBottomOf="@+id/menuName" />
+
+        <TextView
+            android:id="@+id/MenuDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/sectionName"
+            app:layout_constraintTop_toBottomOf="@+id/sectionName" />
+
+        <TextView
+            android:id="@+id/MenuTitle_item"
+            android:layout_width="126dp"
+            android:layout_height="33dp"
+            android:layout_marginTop="24dp"
+            android:text="food Items"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center"
+            app:layout_constraintEnd_toEndOf="@+id/MenuDescription"
+            app:layout_constraintStart_toStartOf="@+id/MenuDescription"
+            app:layout_constraintTop_toBottomOf="@+id/MenuDescription" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:layout_width="wrap_content"
+            android:id="@+id/mygrid"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:columnCount="3"
+            app:rowCount="100"
+            android:layout_marginBottom="10dp"
+
+            app:layout_constraintEnd_toEndOf="@+id/MenuTitle_item"
+            app:layout_constraintStart_toStartOf="@+id/MenuTitle_item"
+            app:layout_constraintTop_toBottomOf="@+id/MenuTitle_item">
+
+
+            <TextView
+                android:id="@+id/foodName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/foodDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="TextView" />
+        </androidx.gridlayout.widget.GridLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>
